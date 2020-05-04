@@ -1,3 +1,4 @@
 # beat-machine
+List of projects by Branch. Inlcluding:
 Programmable drum looping machine built in Java with import/export capabilities
-This was a collaborated effort between my partner and I for a final project in an introductory Java class.
+
